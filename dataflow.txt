@@ -5,3 +5,5 @@ User → [Search Note] → App Logic → Filter → Display List
 User → [Scan Barcode] → BarcodeScanner → App Logic → Add Note
 
 User → [Voice Input] → SpeechRecognizer → ContentBox
+
+Application Design Development
