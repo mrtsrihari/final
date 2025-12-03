@@ -25,3 +25,5 @@
 |  Device Services (Sensors)|
 | SpeechRecognizer • Barcode|
 +---------------------------+
+
+ADD
